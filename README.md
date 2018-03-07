@@ -1,2 +1,4 @@
 # reveal-js-css
-CSS Style settings for reveal.js
+
+I like the reveal.js presentation framework a lot.
+Here some CSS for my personal reveal.js presentations
